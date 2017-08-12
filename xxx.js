@@ -1,0 +1,1 @@
+window.user={"name":"frank","qb":10000}
